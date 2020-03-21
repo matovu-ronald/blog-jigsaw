@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-blog.com',
+    'baseUrl' => 'https://laughing-hopper-fe0492.netlify.com',
     'production' => true,
 ];
